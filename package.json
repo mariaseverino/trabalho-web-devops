@@ -1,0 +1,19 @@
+{
+    "name": "produto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest --watch=false",
+        "dev": "ts-node-dev src/server.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.4.4",
+        "tslib": "^2.6.1",
+        "typescript": "^5.1.6",
+        "vitest": "^0.33.0"
+    }
+}
